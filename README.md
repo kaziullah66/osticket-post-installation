@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlIIOofOzmpHyBv3K2RtWySRgxHzgV2blSEJC-0wqXL7eMJaZZYaYGBzLNQcJa0J7XM086_TeyfDi2iZNOSIssHtpA-Wq1BhPUAK8lzLy7SVxhp6kZBhyg=s512"/>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlKJfI0RmLli-XtHz9B1bhfFOP6SbkyuvWk9XM8ShynEtnxzjS8Gt4kok5Q8QCauN1OWSIl6HUeoSud2i42A15slFvfTuEA20kWdnnpGOCdREPNE9Q1-VQ=s512"/>
 </p>
 <p>
 First, we deployed our Windows virtual machine.
