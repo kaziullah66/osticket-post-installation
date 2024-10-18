@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -31,25 +27,53 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlIIOofOzmpHyBv3K2RtWySRgxHzgV2blSEJC-0wqXL7eMJaZZYaYGBzLNQcJa0J7XM086_TeyfDi2iZNOSIssHtpA-Wq1BhPUAK8lzLy7SVxhp6kZBhyg=s512"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we deployed our Windows virtual machine.
 </p>
+<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJMrqU1s86RFIDYhyZyXhvgbtEWw1uEC_xQp43JVTUXvGbOFK1GwkQXagN9p--klZNDZLbJ0b1rrE3wdLCM_7USu0JKEfhdEOzsfKdb_YUvFJYNB7XZsw=s512"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> Next, we downloaded the necessary prerequisites for osTicket.
 </p>
+<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlI7rJXQP4lc6gCzY1xLX6ZNdhOZvM23Lbc5ak8pUEN6DYqdhUgjMKWCOX-cfOIFll8T9Nmq8RSO3OGN3bcZIV3gXsxKRO6wcmEK1AJ8t_yjEuoTC7zscQ=s512"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After installing all the prerequisites, we launched osTicket through the Internet Information Services (IIS) Manager.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJ6KwHm1c21SnLXZwsWqRiwLrDnghN3Gd6Z5iBxUOSb6Wa8GIt2MQVMZAMjdLX-r1NPz3k0_buSYorNI4M-0YmKoxcCExgsYt5kp730tMzZk1HtYWEuoQ=s512"/>
+</p>
+<p>
+We enabled specific extensions to facilitate key functions.
+</p>
+<br />
+<br/>
+
+<p>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlLPOZNXKCPqk5A1cjyD-fOqiRRrxONjkHQrLDA1M0gBFE8nXLFXELwIDW4n3ulm7zbq-xeN6_qoCuHrtNYyx-XerDHZwk5zS6KMQeqkp5n4DS35PNhjZQ=s512"/>
+</p>
+<p>
+Filling out basic installation steps.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJtCvSZkeMzpzEMuoDGPEogdmOIzdMmjdTwEe0Efj1dIs5tk587bQ4mJpiKWk9IWcdt3-TkTFJktWq8vwX9kmEhVkJb9Pq4E54F8dcTj3u7IVZHsoaPow=s512"/>
+</p>
+<p>
+Logging in as an admin.
 </p>
 <br />
