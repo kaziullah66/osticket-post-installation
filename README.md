@@ -36,7 +36,7 @@ First, we deployed our Windows virtual machine.
 <br />
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJMrqU1s86RFIDYhyZyXhvgbtEWw1uEC_xQp43JVTUXvGbOFK1GwkQXagN9p--klZNDZLbJ0b1rrE3wdLCM_7USu0JKEfhdEOzsfKdb_YUvFJYNB7XZsw=s512"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547977_3837102143224045_4044274293581054929_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=pLl97oPm_bwQ7kNvgEyqceH&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AY2yvifopNUMv8UlENDHxJm&oh=03_Q7cD1QGtgSnCfXKzjcjY9o6xN8n8zZP4lRoo_1Q4z2Q5Xln0Fg&oe=6739CF45"/>
 </p>
 <p> Next, we downloaded the necessary prerequisites for osTicket.
 </p>
@@ -44,7 +44,7 @@ First, we deployed our Windows virtual machine.
 <br />
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlI7rJXQP4lc6gCzY1xLX6ZNdhOZvM23Lbc5ak8pUEN6DYqdhUgjMKWCOX-cfOIFll8T9Nmq8RSO3OGN3bcZIV3gXsxKRO6wcmEK1AJ8t_yjEuoTC7zscQ=s512"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576748_8779576668772576_448718027474145368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=omw_-Xh1TgIQ7kNvgExWf_H&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4fEbDmlXm_gIIYq1SgzVGi&oh=03_Q7cD1QHPZmbzzxN5N3a468iyTCOXI93SuUZMzDv6Xx33rgAarQ&oe=6739C119"/>
 </p>
 <p>
 After installing all the prerequisites, we launched osTicket through the Internet Information Services (IIS) Manager.
@@ -53,7 +53,7 @@ After installing all the prerequisites, we launched osTicket through the Interne
 <br />
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJ6KwHm1c21SnLXZwsWqRiwLrDnghN3Gd6Z5iBxUOSb6Wa8GIt2MQVMZAMjdLX-r1NPz3k0_buSYorNI4M-0YmKoxcCExgsYt5kp730tMzZk1HtYWEuoQ=s512"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462582168_1236428111011862_1594518713459543303_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NonkX1Ekmn4Q7kNvgGElehM&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A8wjt86i1ropF8hz4R3bmnf&oh=03_Q7cD1QHqqRDWY1YjpBGR6TtDCUWKyFZr9j8Ip0t4MOOgtpxQhg&oe=6739EEDA"/>
 </p>
 <p>
 We enabled specific extensions to facilitate key functions.
@@ -62,7 +62,7 @@ We enabled specific extensions to facilitate key functions.
 <br/>
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlLPOZNXKCPqk5A1cjyD-fOqiRRrxONjkHQrLDA1M0gBFE8nXLFXELwIDW4n3ulm7zbq-xeN6_qoCuHrtNYyx-XerDHZwk5zS6KMQeqkp5n4DS35PNhjZQ=s512"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462550858_1063608118474463_1426451782000312587_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=SiMM2-SFaxkQ7kNvgEE9pl3&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AGcQtyPXuYgnqwhbfag8RPF&oh=03_Q7cD1QGpahtCb4hdHMzPvGHrFHMQ5elW85LM2FTWOoAkCfw3Eg&oe=6739E9F0"/>
 </p>
 <p>
 Filling out basic installation steps.
@@ -71,7 +71,7 @@ Filling out basic installation steps.
 <br />
 
 <p>
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AFgXFlJtCvSZkeMzpzEMuoDGPEogdmOIzdMmjdTwEe0Efj1dIs5tk587bQ4mJpiKWk9IWcdt3-TkTFJktWq8vwX9kmEhVkJb9Pq4E54F8dcTj3u7IVZHsoaPow=s512"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462549257_1968018593665182_8247613250511468677_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5QL30z0Ex0EQ7kNvgEnybsi&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4kcCcA-D3y17cNsIGyDU4o&oh=03_Q7cD1QGJRNt9dEQyWvGRtLsbCZrsXQf50tei7odeVr5Qf74TVQ&oe=6739E3F7"/>
 </p>
 <p>
 Logging in as an admin.
