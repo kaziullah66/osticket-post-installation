@@ -62,15 +62,6 @@ Creating departments.
 <br/>
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462557950_921371026521127_455317138002087077_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=bPOBYkI5vmMQ7kNvgF7l6cH&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AbZjVKH8JgVKQaMsivjVDVh&oh=03_Q7cD1QHC-_PcqCFLQiuX6qXq57EpqHsVVTDs6Ooqba4jcAMbbw&oe=673D135A"/>
-</p>
-<p>
-Creating new departments.
-</p>
-<br />
-<br />
-
-<p>
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462549254_1043794464156506_3439833860451357034_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=68PIyw8AWx8Q7kNvgETrqY6&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A0lCYFOZjX0pdAP1ypTx-4D&oh=03_Q7cD1QFwP3XqfXeRxSO0twfAD7ZNgauwOYuMUI5VX3XUNT22kg&oe=673D2FC1"/>
 </p>
 <p>
