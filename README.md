@@ -27,53 +27,89 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462554576_2849246758573287_3383910012200417354_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=wckJkDqUHcAQ7kNvgFSJ4Wj&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4pzuVGmWgU4tlgN-ld08hZ&oh=03_Q7cD1QH-Mab9HYH2-wvGlYUdJKzXSiegPVj3a4hB5Oam55SI_Q&oe=6739EB65"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462555081_1458197258189863_8747181116032481009_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=v9Dpl2ZE-VAQ7kNvgFSuqcj&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AInOWoHvX9wthjXw7Jb_8n4&oh=03_Q7cD1QFu0ZPxV27eudCKDTWBkbkrbg0XN36EI5cDkS6qIES5Zw&oe=673CF0C6"/>
 </p>
 <p>
-First, we deployed our Windows virtual machine.
+Agent panel
 </p>
 <br />
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547977_3837102143224045_4044274293581054929_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=pLl97oPm_bwQ7kNvgEyqceH&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AY2yvifopNUMv8UlENDHxJm&oh=03_Q7cD1QGtgSnCfXKzjcjY9o6xN8n8zZP4lRoo_1Q4z2Q5Xln0Fg&oe=6739CF45"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462558223_1200993947670097_6449612281414522288_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=xgveZLLH_jwQ7kNvgFSHq6L&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AJMvMZ9tFb40GL-bj_pXgLz&oh=03_Q7cD1QE9n29bCZHshLs5FiSEV6v__m2kofeWEicZe9Op84yu0g&oe=673D130C"/>
 </p>
-<p> Next, we downloaded the necessary prerequisites for osTicket.
-</p>
-<br />
-<br />
-
-<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576748_8779576668772576_448718027474145368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=omw_-Xh1TgIQ7kNvgExWf_H&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4fEbDmlXm_gIIYq1SgzVGi&oh=03_Q7cD1QHPZmbzzxN5N3a468iyTCOXI93SuUZMzDv6Xx33rgAarQ&oe=6739C119"/>
-</p>
-<p>
-After installing all the prerequisites, we launched osTicket through the Internet Information Services (IIS) Manager.
+<p> Admin pannel
 </p>
 <br />
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462582168_1236428111011862_1594518713459543303_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NonkX1Ekmn4Q7kNvgGElehM&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A8wjt86i1ropF8hz4R3bmnf&oh=03_Q7cD1QHqqRDWY1YjpBGR6TtDCUWKyFZr9j8Ip0t4MOOgtpxQhg&oe=6739EEDA"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462543701_904598088253402_8014171009477313736_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=rBdckYaD3L4Q7kNvgEhY5LD&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=Ab6lRLKLfCUceMFYeVZ8y5W&oh=03_Q7cD1QFhx2OhTjBMEL36gJUhPxmMkvh3SW2iTTgeLmGXuRM6zA&oe=673D25F4"/>
 </p>
 <p>
-We enabled specific extensions to facilitate key functions.
+Creating roles.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462557950_921371026521127_455317138002087077_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=bPOBYkI5vmMQ7kNvgF7l6cH&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AbZjVKH8JgVKQaMsivjVDVh&oh=03_Q7cD1QHC-_PcqCFLQiuX6qXq57EpqHsVVTDs6Ooqba4jcAMbbw&oe=673D135A"/>
+</p>
+<p>
+Creating departments.
 </p>
 <br />
 <br/>
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462550858_1063608118474463_1426451782000312587_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=SiMM2-SFaxkQ7kNvgEE9pl3&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AGcQtyPXuYgnqwhbfag8RPF&oh=03_Q7cD1QGpahtCb4hdHMzPvGHrFHMQ5elW85LM2FTWOoAkCfw3Eg&oe=6739E9F0"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462557950_921371026521127_455317138002087077_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=bPOBYkI5vmMQ7kNvgF7l6cH&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AbZjVKH8JgVKQaMsivjVDVh&oh=03_Q7cD1QHC-_PcqCFLQiuX6qXq57EpqHsVVTDs6Ooqba4jcAMbbw&oe=673D135A"/>
 </p>
 <p>
-Filling out basic installation steps.
+Creating new departments.
 </p>
 <br />
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462549257_1968018593665182_8247613250511468677_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=5QL30z0Ex0EQ7kNvgEnybsi&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4kcCcA-D3y17cNsIGyDU4o&oh=03_Q7cD1QGJRNt9dEQyWvGRtLsbCZrsXQf50tei7odeVr5Qf74TVQ&oe=6739E3F7"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462549254_1043794464156506_3439833860451357034_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=68PIyw8AWx8Q7kNvgETrqY6&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A0lCYFOZjX0pdAP1ypTx-4D&oh=03_Q7cD1QFwP3XqfXeRxSO0twfAD7ZNgauwOYuMUI5VX3XUNT22kg&oe=673D2FC1"/>
 </p>
 <p>
-Logging in as an admin.
+Allowing all users to create tickets.
 </p>
 <br />
+
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462562625_536188865819014_5169257898703640138_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XAONoJtWUYUQ7kNvgHXEWPh&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AIOJoINAXw4v3dkFxeKhoh4&oh=03_Q7cD1QFkQM1VG0cCJaSzxL0CvISGzkx0V9TWVO7CG1ZK0QJFbw&oe=673D2D2D"/>
+</p>
+<p>
+creating teams.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462546329_1265563881200819_4701601412686609189_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=ZkG5MAFaMtYQ7kNvgHB6xnV&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AFP1uw4K1S6bQcm2B6WgTeu&oh=03_Q7cD1QFFvYiP-TAowvfrTrECA5i4OOdiuQus-cRNNV2tDxc6cw&oe=673D02DC"/>
+</p>
+<p>
+Creating an employee account to handle tickets.
+
+</p>
+<br />
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462558178_895619945862166_1021663481250441992_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=nzeRMvkEIVcQ7kNvgH0dVp-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=ALIWT7itFrvARTeND_kLnXU&oh=03_Q7cD1QHY8eCfq5Z0mifED-KqFY0ZzmzCyd3HwkZZlhb2lpZw3Q&oe=673D2F26"/>
+</p>
+<p>
+Created different severity levels, to label tickets.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462546141_457191320150030_8247346020122942064_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=X8Z2dOCMW1kQ7kNvgEOJQY6&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A6z-rutk8r8XiXzaBfJrtgX&oh=03_Q7cD1QEbgXOaHVO1DPAfp06OgeGOVB21in_DTxDwCN8qWhR1Cg&oe=673D1D39"/>
+</p>
+<p>
+Created help topics to narrow down help needs.
+</p>
+<br />
+
+
+
+
