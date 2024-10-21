@@ -72,7 +72,7 @@ Allowing all users to create tickets.
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462562625_536188865819014_5169257898703640138_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XAONoJtWUYUQ7kNvgHXEWPh&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AIOJoINAXw4v3dkFxeKhoh4&oh=03_Q7cD1QFkQM1VG0cCJaSzxL0CvISGzkx0V9TWVO7CG1ZK0QJFbw&oe=673D2D2D"/>
 </p>
 <p>
-creating teams.
+Creating teams.
 </p>
 <br />
 <br />
